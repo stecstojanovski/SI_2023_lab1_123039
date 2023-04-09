@@ -1,0 +1,62 @@
+commit c73af868b317a35bee0ef661e5f181ebc55a7438 (HEAD -> master, origin/master)
+Author: stec <stefanstojanovski180@gmail.com>
+Date:   Sun Apr 9 20:53:22 2023 +0200
+
+    Final commit
+
+commit d1af2783d3099e3bbf2cf6ff888c5c3e71e02e4e
+Merge: ded0d5e 880971d
+Author: stec <stefanstojanovski180@gmail.com>
+Date:   Sun Apr 9 20:34:44 2023 +0200
+
+    Merge branch 'bug3'
+
+commit ded0d5e80d8a16ddcc848e09edbed19a396d3763
+Merge: 0759bdf d1c454b
+Author: stec <stefanstojanovski180@gmail.com>
+Date:   Sun Apr 9 20:33:34 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 880971d0125e59617a25dcad3d43f2977c50f2f5 (origin/bug3, bug3)
+Author: stec <stefanstojanovski180@gmail.com>
+Date:   Sun Apr 9 20:23:20 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit d1c454b5bcd12f2985a71f263e4623319fdbd7b1 (origin/bug2, bug2)
+Author: stec <stefanstojanovski180@gmail.com>
+Date:   Sun Apr 9 20:21:37 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+
+commit 0759bdf02e63c541b0508bdaab438b31decccfc9 (origin/bug1, bug1)
+Author: stec <stefanstojanovski180@gmail.com>
+Date:   Sun Apr 9 20:13:10 2023 +0200
+
+    Fix wrong loop for reading.
+
+commit 80218a9def8a92af6025bea21edbe291d95e516b
+Author: stec <stefanstojanovski180@gmail.com>
+Date:   Sun Apr 9 19:18:56 2023 +0200
+
+    Add documentation file 123039.txt
+
+commit 5cdc5e22d105e24ab1aae619d56dfc0a548d6031
+Author: stec <stefanstojanovski180@gmail.com>
+Date:   Sun Apr 9 19:08:50 2023 +0200
+
+    Add java class
+
+commit 33a6fa61df752ddc1fbaae84eaa69cbea8581cc0
+Author: stecstojanovski <130304587+stecstojanovski@users.noreply.github.com>
+Date:   Sun Apr 9 18:32:21 2023 +0200
+
+    Initial commit
+
+commit e74af1ff5b2bfbd2bef2f34df273da5084e5f357
+Author: stecstojanovski <130304587+stecstojanovski@users.noreply.github.com>
+Date:   Sun Apr 9 18:32:21 2023 +0200
+
+    Initial commit

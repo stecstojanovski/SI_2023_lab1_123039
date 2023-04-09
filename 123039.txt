@@ -6,3 +6,19 @@ Odgovori na prashanjata od laboratoriska vezba 1:
 6. git commit -a
 7. echo SILab1.java, git commit -a -m "Add java class"
 8. git push origin master
+9. git branch
+10. git checkout bug1
+11. git commit 
+12. git checkout bug2
+13. git commit -m "Fix wrong condition in filterOddNumbers"
+14. git checkout bug3
+15. git commit -a -m "Fix method sumEvenNumbers"
+16. git push origin bug1/2/3
+17. git checkout master
+18. git merge bug1(fast-forward merge, no conflict)
+19. git push origin master
+20. git checkout master, git merge bug2(recursive, no conflict)
+21. git push origin master
+22. git checkout master
+23. git merge bug3
+24. git push origin master
