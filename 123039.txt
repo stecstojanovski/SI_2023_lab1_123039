@@ -1,0 +1,8 @@
+Dokumentacija!
+Odgovori na prashanjata od laboratoriska vezba 1:
+1-3. /
+4. git init
+5. git remote add origin
+6. git commit -a
+7. echo SILab1.java, git commit -a -m "Add java class"
+8. git push origin master
